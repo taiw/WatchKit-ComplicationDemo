@@ -1,9 +1,9 @@
 # WatchKit-ComplicationDemo
-watchOS2.0 complication demo
+watchOS2.0 complication demo which shows the price of BitCoin on AppleWatch.
 
 #Requirement
 Xcode7.0beta
-watchOS2.0+iOS9.0
+watchOS2.0 + iOS9.0
 
 #Tips
 Deep press on Modular or Utilitarian WatchFace and choose this complication.
